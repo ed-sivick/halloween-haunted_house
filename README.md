@@ -19,7 +19,7 @@ ___
  - a troll
 _____
 ## Layout:
-The user is trapped inside a haunted house, and must figure out a way to exit by visiting the 3 characters: **witch**, **pirate**, and **troll**.
+The user is trapped inside a haunted house, and must figure out a way to exit by visiting 3 characters inside the house: **witch**, **pirate**, and **troll**.
 ___
 ## Installation
 (1) Open the **haunted_house.py** file in Visual Studio Code.   
