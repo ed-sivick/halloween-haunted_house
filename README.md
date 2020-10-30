@@ -49,8 +49,12 @@ _____
 ___
 ## Application_Review  
   
-**Application Review Image:** Hover the mouse over each image for a brief description.
+**Story sample and Application Review Image:** Hover the mouse over each image for a brief description.
 <p align="left">
-  <img src="haunted_house_review.png" width="800" title="image of Udacity review" alt="image of Udacity review">
+  <img src="images/story_sample.png" width="800" title="sample text of haunted house story" alt="sample text of haunted house story">
+  </p>
+
+  <p align="left">
+  <img src="images/haunted_house_review.png" width="800" title="image of Udacity review" alt="image of Udacity review">
   </p>
   
