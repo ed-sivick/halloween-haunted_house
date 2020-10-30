@@ -13,7 +13,8 @@ ___
 * [Questions](#questions)
 * [Application_Review](#application_review)
 ## Description:
- This is a command-line app story about a haunted house including:
+ This is a command-line app that invokes an interactive story about a haunted house and includes 4 characters:
+ - the user
  - a witch
  - a pirate
  - a troll
