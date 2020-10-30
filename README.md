@@ -51,10 +51,17 @@ ___
   
 **Story sample and Application Review Image:** Hover the mouse over each image for a brief description.
 <p align="left">
-  <img src="images/story_sample.png" width="800" title="sample text of haunted house story" alt="sample text of haunted house story">
+  <img src="images/story_sample_witch.png" width="800" title="sample witch text of haunted house story" alt="sample witch text of haunted house story">
+  </p>
+
+  <p align="left">
+  <img src="images/story_sample_pirate.png" width="800" title="sample pirate text of haunted house story" alt="sample pirate text of haunted house story">
+  </p>
+  
+  <p align="left">
+  <img src="images/story_sample_troll.png" width="800" title="sample troll text of haunted house story" alt="sample troll text of haunted house story">
   </p>
 
   <p align="left">
   <img src="images/haunted_house_review.png" width="800" title="image of Udacity review" alt="image of Udacity review">
   </p>
-  
